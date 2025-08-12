@@ -73,3 +73,7 @@ textarea:not([rows]) {
   scroll-margin-block: 5ex;
 }
 
+div, ul, li, a {
+  margin: 0px;
+  padding: 0px;
+}
