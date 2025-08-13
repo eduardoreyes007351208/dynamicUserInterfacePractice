@@ -34,10 +34,13 @@ html {
 .hidden {
     display: none;
 }
+.show {
+    display: flex;
+}
 #menuDiv {
     width: 25%;
     height: 100%;
-    display: flex;
+    /*display: flex;*/
     justify-content: center;
     align-items: center;
 }
